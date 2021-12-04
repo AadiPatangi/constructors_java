@@ -8,7 +8,7 @@ public class book {
 		public int pages;
 		public String language;
 		
-		public book(String title, String author, int pages, String language) {  //creating the class
+		public book(String title, String author, int pages, String language) {  //creating the constructor
 			this.title = title;
 			this.author = author;
 			this.pages = pages;
